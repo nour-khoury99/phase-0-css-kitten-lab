@@ -38,3 +38,13 @@ img {
 #basket, #ball {
   display: inline;
 }
+
+.parent-element {
+  position: relative;
+}
+
+.child-element {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
